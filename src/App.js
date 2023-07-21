@@ -1,4 +1,3 @@
-// https://api.frankfurter.app/latest?amount=100&from=EUR&to=USD
 import { useState, useEffect } from "react";
 
 
